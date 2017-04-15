@@ -1,0 +1,14 @@
+{
+  "name": "erised-telegram",
+  "version": "1.0.0",
+  "description": "Archive web pages with Telegram",
+  "scripts": {
+    "start": "node src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marvel Mathew <m@marvelmathew.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "erised": "^2.8.0"
+  }
+}
