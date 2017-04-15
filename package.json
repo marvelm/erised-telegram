@@ -4,11 +4,13 @@
   "description": "Archive web pages with Telegram",
   "scripts": {
     "start": "node src",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard"
   },
   "author": "Marvel Mathew <m@marvelmathew.ca>",
   "license": "MIT",
   "dependencies": {
-    "erised": "^2.8.0"
+    "erised": "^2.8.0",
+    "node-telegram-bot-api": "^0.27.0",
+    "standard": "^10.0.2"
   }
 }
