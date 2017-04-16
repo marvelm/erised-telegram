@@ -474,9 +474,9 @@ enqueue@^1.0.2:
   dependencies:
     sliced "0.0.5"
 
-erised@^2.8.0:
-  version "2.8.0"
-  resolved "https://registry.yarnpkg.com/erised/-/erised-2.8.0.tgz#532b6c3f821ee1f80b079101e9c94de5f255a871"
+erised@^2.9.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/erised/-/erised-2.9.0.tgz#dc3413413794c8360155cea687a922d97b155e87"
   dependencies:
     bluebird "^3.4.6"
     docopt "0.6.2"
@@ -1293,11 +1293,11 @@ lodash@3.0.x:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.0.1.tgz#14d49028a38bc740241d11e2ecd57ec06d73c19a"
 
-lodash@4.12.0, lodash@^4.0.0, lodash@^4.3.0:
+lodash@4.12.0, lodash@^4.0.0:
   version "4.12.0"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.12.0.tgz#2bd6dc46a040f59e686c972ed21d93dc59053258"
 
-lodash@^4.13.1:
+lodash@^4.13.1, lodash@^4.3.0:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
