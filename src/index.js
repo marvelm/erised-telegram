@@ -18,6 +18,7 @@ bot.on('message', msg => {
     const urls = new Set(extractUrls(entities, text))
     urls.forEach(url => {
       erised.archivePage(url, 'bot')
+        .tap(page => console.log(JSON.stringify(page, null, 2)))
     })
   }
 })
